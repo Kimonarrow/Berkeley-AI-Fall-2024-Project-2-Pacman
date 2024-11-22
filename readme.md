@@ -1,13 +1,9 @@
-# Scores a perfect score of 25/25
+# Scores a perfect score of 25/25 , the editable file was multiAgents.py
+  https://inst.eecs.berkeley.edu/~cs188/fa24/projects/proj2/
 
-# The editable file was multiAgents.py
 
 # Pacman, now with ghosts.
 # Minimax, Expectimax, Evaluation, A-B pruning etc.
-
-
-https://inst.eecs.berkeley.edu/~cs188/fa24/projects/proj2/
-
 
 Q1:
 
