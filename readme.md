@@ -1,5 +1,8 @@
-Scores a perfect score of 25/25
-the editable file was multiAgents.py
+# Scores a perfect score of 25/25
+
+# the editable file was multiAgents.py
+
+
 https://inst.eecs.berkeley.edu/~cs188/fa24/projects/proj2/
 
 Pacman, now with ghosts.
